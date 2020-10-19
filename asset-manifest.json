@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/catfood/static/css/main.c2e9ac0b.chunk.css",
+    "main.js": "/catfood/static/js/main.8ea67b4e.chunk.js",
+    "main.js.map": "/catfood/static/js/main.8ea67b4e.chunk.js.map",
+    "runtime-main.js": "/catfood/static/js/runtime-main.33730069.js",
+    "runtime-main.js.map": "/catfood/static/js/runtime-main.33730069.js.map",
+    "static/js/2.27dcc177.chunk.js": "/catfood/static/js/2.27dcc177.chunk.js",
+    "static/js/2.27dcc177.chunk.js.map": "/catfood/static/js/2.27dcc177.chunk.js.map",
+    "index.html": "/catfood/index.html",
+    "precache-manifest.340d08c8492a4667536cf2b4fca6a8b0.js": "/catfood/precache-manifest.340d08c8492a4667536cf2b4fca6a8b0.js",
+    "service-worker.js": "/catfood/service-worker.js",
+    "static/css/main.c2e9ac0b.chunk.css.map": "/catfood/static/css/main.c2e9ac0b.chunk.css.map",
+    "static/js/2.27dcc177.chunk.js.LICENSE.txt": "/catfood/static/js/2.27dcc177.chunk.js.LICENSE.txt",
+    "static/media/CatFood.css": "/catfood/static/media/Pattern.f782a444.png",
+    "static/media/CatCard.css": "/catfood/static/media/cat.2ec0750e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33730069.js",
+    "static/js/2.27dcc177.chunk.js",
+    "static/css/main.c2e9ac0b.chunk.css",
+    "static/js/main.8ea67b4e.chunk.js"
+  ]
+}
